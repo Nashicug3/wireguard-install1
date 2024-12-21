@@ -1,8 +1,8 @@
 #!/bin/bash
 #
-# https://github.com/Nyr/wireguard-install
+# https://github.com/Nashicug3/wireguard-install1
 #
-# Copyright (c) 2020 Nyr. Released under the MIT License.
+# Copyright (c) 2024 Nashicug. Released under the MIT License.
 
 
 # Detect Debian users running the script with "sh" instead of bash
@@ -470,6 +470,7 @@ else
 	echo "WireGuard is already installed."
 	echo
 	echo "Select an option:"
+        echo "    NASHIC TECH UG" 
 	echo "   1) Add a new client"
 	echo "   2) Remove an existing client"
 	echo "   3) Remove WireGuard"
